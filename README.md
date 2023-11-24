@@ -3,8 +3,6 @@
 I'm a Data Architect with over 6 years of experience in designing and developing robust data-intensive applications. 
 Currently, I'm leading impactful initiatives at ThinkData Works Inc., managing dynamic data services platforms, overseeing petabyte-scale data pipelines, and contributing to cutting-edge data products.
 
-🌱 I’m currently learning
-
 ## 🚀 Expertise
 
 - **Programming:** Python, Ruby, Java, GO, SQL
