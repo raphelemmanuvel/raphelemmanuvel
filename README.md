@@ -28,6 +28,15 @@ _November 2018 to October 2020_
 ### Data Analyst | ThinkData Works Inc
 _November 2017 to October 2018_
 
+### Data Research Intern | ThinkData Works Inc
+_May 2017 to August 2018_
+
+### Researcher, Applied research and Innovation | Lambton College
+_September 2017 to Septmeber 2019_
+
+### Software Developer | UST
+_December 2014 to December 2015_
+
 
 ## 🎓 Education
 
