@@ -37,15 +37,6 @@ Currently, I'm leading impactful initiatives at ThinkData Works Inc., managing d
 - ### Software Developer | UST
   _December 2014 to December 2015_
 
-
-## 🎓 Education
-
-- **Post Graduate Certificate in Cloud Computing for Big Data**
-  - Lambton College, Toronto, Ontario, Canada
-
-- **Bachelors of Technology in Electrical and Electronics Engineering**
-  - Mahatma Gandhi University, Kottayam, Kerala, India
-
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/raphelemmanuvel)
