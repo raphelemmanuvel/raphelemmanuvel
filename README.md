@@ -49,7 +49,6 @@ _December 2014 to December 2015_
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://linkedin.com/raphelemmanuvel)
-- [GitHub](https://github.com/raphelemmanuvel)
 - Email: raphelemmanuvel@gmail.com
 
 Let's connect and build something amazing together! 🚀
