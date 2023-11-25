@@ -16,26 +16,26 @@ Currently, I'm leading impactful initiatives at ThinkData Works Inc., managing d
 
 ## 💼 Professional Experience
 
-### Data Architect | ThinkData Works Inc
-_March 2023 to Present_
+- ### Data Architect | ThinkData Works Inc
+  _March 2023 to Present_
 
-### Data Engineer III | ThinkData Works Inc
-_November 2020 to February 2023_
+- ### Data Engineer III | ThinkData Works Inc
+  _November 2020 to February 2023_
 
-### Data Engineer | ThinkData Works Inc
-_November 2018 to October 2020_
+- ### Data Engineer | ThinkData Works Inc
+  _November 2018 to October 2020_
 
-### Data Analyst | ThinkData Works Inc
-_November 2017 to October 2018_
+- ### Data Analyst | ThinkData Works Inc
+  _November 2017 to October 2018_
 
-### Data Research Intern | ThinkData Works Inc
-_May 2017 to August 2018_
+- ### Data Research Intern | ThinkData Works Inc
+  _May 2017 to August 2018_
 
-### Researcher, Applied research and Innovation | Lambton College
-_September 2017 to Septmeber 2019_
+- ### Researcher, Applied research and Innovation | Lambton College
+  _September 2017 to Septmeber 2019_
 
-### Software Developer | UST
-_December 2014 to December 2015_
+- ### Software Developer | UST
+  _December 2014 to December 2015_
 
 
 ## 🎓 Education
