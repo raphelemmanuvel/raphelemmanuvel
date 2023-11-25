@@ -1,45 +1,31 @@
-# 👋 Hi, I'm Emmanuvel Raphel!
+# 👋 Greetings, Fellow Data Adventurer! 🚀
 
-I'm a Data Architect with over 6 years of experience in designing and developing robust data-intensive applications. 
-Currently, I'm leading impactful initiatives at ThinkData Works Inc., managing dynamic data services platforms, overseeing petabyte-scale data pipelines, and contributing to cutting-edge data products.
+I'm Emmanuvel Raphel, the Data Architect wizard weaving spells in the digital realms. 
+⚡ Currently on a mission to craft magical data platforms at ThinkData Works Inc., and when not deciphering the data universe, you'll find me on countryside drives, mastering mind-power techniques, diving into books, cheering for Arsenal ⚽ (yes, I'm a die-hard Gunner!), and plotting strategic moves on the chessboard.
 
-## 🚀 Expertise
+## 🛠️ In My Data Arsenal:
 
-- **Programming:** Python, Ruby, Java, GO, SQL
-- **Data Visualization:** Microsoft Power BI, Tableau
-- **Cloud Storages | Databases | Data Stores:** Amazon S3, Google Cloud Storage, Cloud SQL, MongoDB, DuckDB, PostgreSQL, Redis
-- **Data Warehouses:** Snowflake, BigQuery
-- **Big Data Tools:** Spark, DataProc, DataPrep, Soda Core, dbt
-- **Workflow Orchestration Tools:** Argo Workflows, Airflow (Cloud Composer)
-- **Container Management | Compute Platforms:** Docker, Google Kubernetes Engine, Amazon EKS, Google Cloud Run, Google Compute Engine
-- **Web Frameworks:** ReactJS, JavaScript, Flask, MEAN Stack, FastAPI
+- **Languages of Wisdom:** Python, Ruby, Java, GO, SQL
+- **Magical Data Warehouses:** Snowflake, BigQuery
+- **Enchanting Data Spells:** Spark, DataProc, DataPrep
+- **Cloud Wizardry:** AWS, GCP
+- **Championing Workflow Sagas:** Argo Workflows, Airflow
+- **Container Sorcery:** Docker, Kubernetes
 
-## 💼 Professional Experience
+## ⚽ Fun Facts & Quirks
 
-- ### Data Architect | ThinkData Works Inc
-  _March 2023 to Present_
+- 🚗 **Roadtrip Enthusiast:** I find solace in the rhythm of countryside drives.
+- 🧠 **Mind-Power Adept:** Constantly exploring the art of unlocking untapped potentials.
+- 📚 **Book Alchemist:** My secret potion for expanding knowledge.
+- ⚽ **Football Devotee:** Proudly bleeding Arsenal colors!
+- ♟️ **Chess Apprentice:** Learning the strategic dance of kings and queens.
 
-- ### Data Engineer III | ThinkData Works Inc
-  _November 2020 to February 2023_
+## 🌟 Join the Quest!
 
-- ### Data Engineer | ThinkData Works Inc
-  _November 2018 to October 2020_
+Embark on a data-driven adventure with me! Currently honing my skills to build epic Data Platforms in the snowy landscapes of Snowflake. 
+Let's connect, collaborate, and create magic together.
 
-- ### Data Analyst | ThinkData Works Inc
-  _November 2017 to October 2018_
 
-- ### Data Research Intern | ThinkData Works Inc
-  _May 2017 to August 2018_
+Follow my GitHub journey at [github.com/raphelemmanuvel](https://github.com/raphelemmanuvel), and may your code be as unyielding as Arsenal's defense! ⚔️🔴
 
-- ### Researcher, Applied research and Innovation | Lambton College
-  _September 2017 to Septmeber 2019_
-
-- ### Software Developer | UST
-  _December 2014 to December 2015_
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/raphelemmanuvel)
-- Email: raphelemmanuvel@gmail.com
-
-Let's connect and build something amazing together! 🚀
+P.S. If you have any chess tips or Arsenal anecdotes, I'm all ears! 🤓
