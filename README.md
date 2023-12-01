@@ -1,6 +1,6 @@
 # 👋 Greetings, Fellow Data Adventurer! 🚀
 
-I'm Emmanuvel Raphel, a Data Architect wizard weaving spells in the digital realms. 
+I'm Emmanuvel Raphel, a Data Architect weaving spells in the digital realms. 
 
 ⚡ Currently on a mission to craft magical data products at [ThinkData Works Inc.](https://www.thinkdataworks.com/) , and when not deciphering the data universe, you'll find me on countryside 🚗 drives, 
 mastering 🧠 mind-power techniques , diving into 📚 books, cheering for Arsenal ⚽ (yes, I'm a die-hard Gunner!), and learning the strategic dance of kings and queens ♟️.
