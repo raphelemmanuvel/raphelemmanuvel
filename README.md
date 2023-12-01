@@ -14,4 +14,4 @@ mastering 🧠 mind-power techniques , diving into 📚 books, cheering for Arse
 - **Championing Workflow Sagas:** Argo Workflows, Airflow
 - **Container Sorcery:** Docker, Kubernetes
 
-Currently honing my skills to build epic Data Platforms in the snowy landscapes of Snowflake. 
+Currently honing my skills to build epic Data Platforms in the snowy landscapes of Snowflake:snowflake:. 
