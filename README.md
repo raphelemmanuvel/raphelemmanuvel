@@ -14,12 +14,4 @@ mastering 🧠 mind-power techniques , diving into 📚 books, cheering for Arse
 - **Championing Workflow Sagas:** Argo Workflows, Airflow
 - **Container Sorcery:** Docker, Kubernetes
 
-## 🌟 Join the Quest!
-
-Embark on a data-driven adventure with me! Currently honing my skills to build epic Data Platforms in the snowy landscapes of Snowflake. 
-Let's connect, collaborate, and create magic together.
-
-
-Follow my GitHub journey and may your code be as unyielding as Arsenal's defense! ⚔️🔴
-
-P.S. If you have any chess tips or Arsenal anecdotes, I'm all ears! 🤓
+Currently honing my skills to build epic Data Platforms in the snowy landscapes of Snowflake. 
