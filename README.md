@@ -6,12 +6,12 @@ I’m a **Data Architect** at [ThinkData Works Inc.](https://www.thinkdataworks.
 
 ## 🛠️ Core Expertise
 
-**Languages & Frameworks:** Python | Ruby | Java | Go | SQL  
-**Data Warehouses | Data Lakes:** Snowflake | BigQuery | Redshift | Amazon S3 | Google Cloud Storage
-**Databases | Data Stores** Cloud SQL | MongoDB | DuckDB | PostgreSQL | Redis
-**Data Engineering Tools:** Spark | DataProc | DataPrep | dbt  
-**Cloud, CI/CD & Infrastructure:** AWS | GCP | Docker | Kubernetes | GitHub Actions, Helm Charts, OrbStack  
-**Workflow Management:** Argo | Airflow  
+- **Languages & Frameworks:** Python | Ruby | Java | Go | SQL  
+- **Data Warehouses | Data Lakes:** Snowflake | BigQuery | Redshift | Amazon S3 | Google Cloud Storage
+- **Databases | Data Stores** Cloud SQL | MongoDB | DuckDB | PostgreSQL | Redis
+- **Data Engineering Tools:** Spark | DataProc | DataPrep | dbt  
+- **Cloud, CI/CD & Infrastructure:** AWS | GCP | Docker | Kubernetes | GitHub Actions, Helm Charts, OrbStack  
+- **Workflow Management:** Argo | Airflow  
 ---
 
 ## 🌱 Interests & Hobbies
